@@ -1,0 +1,3 @@
+The timestamp on one of these is actually a new build a timestamp from an older at least 24 hour old plugin this has the pickup and dismissing voices but I thought we had a build after this one that has the neutral to friendship voices still in search of it
+
+These test the same in CK need to compare diff in source
